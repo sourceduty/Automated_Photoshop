@@ -30,7 +30,7 @@ Ultimately, the choice between Actions and custom programming depends on the com
 #
 ### Related Links
 
-[Rsearch Automation](https://github.com/sourceduty/Research_Automation)
+[Research Automation](https://github.com/sourceduty/Research_Automation)
 <br>
 [Automated Business](https://github.com/sourceduty/Automated_Business)
 <br>
