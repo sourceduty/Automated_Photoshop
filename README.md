@@ -1,4 +1,4 @@
-![Photoshop Automation](https://github.com/user-attachments/assets/63aba588-e08a-4efa-8a32-4418ea933e4b)
+https://github.com/user-attachments/assets/c4a37a88-b7e6-48d3-9d8d-150d1af6c3ea
 
 > Photoshop actions, scripting, and third-party integrations to enhance efficiency and consistency in workflows.
 
@@ -24,7 +24,7 @@ On the other hand, custom automated programming offers a far greater level of fl
 Ultimately, the choice between Actions and custom programming depends on the complexity of the task and the user's skill level. For simple, repetitive tasks that involve consistent steps, Actions are usually sufficient and much easier to set up. However, for tasks that require a high degree of customization, variability, or integration with other systems, custom programming is the better choice. The trade-off is between ease of use and the learning curve; Actions offer quick setup with limited flexibility, while custom programming provides extensive possibilities at the cost of requiring more expertise and development time.
 
 #
-![Zucker](https://github.com/user-attachments/assets/29a56aec-7cf7-449d-99b1-5e85a3e2bc37)
+![Photoshop Automation](https://github.com/user-attachments/assets/63aba588-e08a-4efa-8a32-4418ea933e4b)
 
 #
 
